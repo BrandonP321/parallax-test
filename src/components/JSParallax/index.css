@@ -1,0 +1,8 @@
+.js-para {
+    height: 60vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-position-x: 50%;
+    background-attachment: fixed;
+}

@@ -1,0 +1,26 @@
+.para-img {
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.para-img.one{
+    background-image: url(https://i.imgur.com/P4RN4KR.jpg);
+}
+
+.para-img.two{
+    background-image: url(https://i.imgur.com/dS5GyJY.jpg);
+}
+
+.para-img.three{
+    background-image: url(https://i.imgur.com/XGklMxh.jpg);
+}
+
+.spacer {
+    width: 100%;
+    height: 300px;
+    background-color: rgb(0, 0, 0);
+}
